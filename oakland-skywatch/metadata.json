@@ -1,0 +1,7 @@
+{
+  "name": "Oakland Skywatch",
+  "description": "A premium flight tracking and trivia app for Oakland Airport (KOAK) arrivals, featuring real-time AI-powered plane spotter scoops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
